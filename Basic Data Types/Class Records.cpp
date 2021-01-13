@@ -1,4 +1,4 @@
-/* Class Records (100 Marks)
+/* Class Records 
 You are given a dataset of N students belonging to the same class.
 The data contains name of the student followed by marks they scored in five subjects which are Physics, Chemsistry, Maths, English, Hindi.
 Your task is find the average marks of the class for each individual subject.
