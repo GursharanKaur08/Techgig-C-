@@ -1,4 +1,4 @@
-/* Count Characters (100 Marks)
+/* Count Characters 
 You will be given a string S, consisting of lowercase English letters and a character C.
 Your task is to find the number of occurrences of that character in the string. 
 
